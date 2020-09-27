@@ -15,10 +15,10 @@ role: Computer Science Student
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: ""
+  url: "ucl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computer Science student interested in animation.
 
 interests:
 - Animation
@@ -68,5 +68,7 @@ email: ""
 #- Visitors
 ---
 
-Hi, I am a recent Computer Science MEng graduate with an interest in the intersection between art and computing.My research interests have most recently led me to explore data-driven methods for motion generation.
-I currently work as a Quantitative Analyst for a fairly large finance company.
+Hi there!
+I am a recent Computer Science MEng graduate with an interest in the intersection between art and computing.My research interests have most recently led me to explore data-driven methods for motion generation.
+I currently work as a Quantitative Analyst at an investment bank.
+In my spare time I like to paint, and attempt to teach my dog (not the one pictured) to be more sociable.
