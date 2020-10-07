@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Generative Modelling of Human Reach-and-Place Action"
+title: "Human Reach-and-Place Action"
 summary: "Paper in submission"
 authors: []
 tags: []
