@@ -9,3 +9,5 @@ headless = true  # This file represents a page section.
 
 
 {{< figure library="true" src="eye.jpeg" title="Watercolour Eye" >}}
+
+{{< figure library="true" src="hkg.jpeg" title="Tsui Wah Restaurant" >}}
