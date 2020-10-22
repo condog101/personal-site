@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Art doodles and Blender Stuff
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+here's me art stuff
