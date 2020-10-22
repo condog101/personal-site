@@ -1,12 +1,20 @@
-+++
-widget = "blank"
-headless = true  # This file represents a page section.
+---
+widget: "blank"
+headless: true  # This file represents a page section.
 
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+design:
+  columns: "1"
 
-+++
 
-#{{< gallery album="gallery">}}
+gallery_item:
+  - album: gallery
+    image: eye.jpeg
+    caption: Watercolour Eye
+  - album: gallery
+    image: hkg.jpeg
+    caption: Tsui Wah Restaurant
+---
+Art and Blender stuff
+
+{{< gallery >}}
