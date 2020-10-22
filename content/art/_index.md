@@ -8,9 +8,9 @@ title: Art doodles and Blender Stuff
 view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+#header:
+#caption: ""
+#image: ""
 
 gallery_item:
   - album: gallery
