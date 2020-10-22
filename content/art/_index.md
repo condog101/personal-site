@@ -11,6 +11,14 @@ view: 2
 header:
   caption: ""
   image: ""
+
+gallery_item:
+  - album: gallery
+    image: eye.jpeg
+    caption: Watercolour Eye
+  - album: gallery
+    image: hkg.jpeg
+    caption: Tsui Wah Restaurant
 ---
 
 here's me art stuff
