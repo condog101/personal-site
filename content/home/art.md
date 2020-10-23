@@ -15,6 +15,9 @@ gallery_item:
     image: hkg.jpeg
     caption: Tsui Wah Restaurant
   - album: gallery
+    image: lay.jpeg
+    caption: Life drawing charcoal
+  - album: gallery
     image: text.jpeg
     caption: Texturing and lighting tutorial
   - album: gallery
