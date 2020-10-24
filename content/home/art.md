@@ -21,11 +21,8 @@ gallery_item:
     image: text.jpeg
     caption: Texturing and lighting tutorial
   - album: gallery
-    image: hs1.jpeg
-    caption: Hard Surface modelling 1
-  - album: gallery
     image: hs2.jpeg
-    caption: Hard Surface modelling 2
+    caption: Hard Surface modelling
   - album: gallery
     image: bounce.gif
     caption: Bouncy ball rigging
