@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: "https://arxiv.org/pdf/2009.12967.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/VGmuK--LO0I"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+{{< youtube VGmuK--LO0I >}}

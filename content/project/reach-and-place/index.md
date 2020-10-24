@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: "center"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +39,5 @@ url_video: "https://youtu.be/o1SICcMZiiU"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+{{< youtube o1SICcMZiiU >}}
