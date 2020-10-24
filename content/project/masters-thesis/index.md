@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Snapshot of rendered animation"
+  caption: "Generated motion samples"
   focal_point: "Center"
   preview_only: false
 
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: "https://arxiv.org/pdf/2009.12967.pdf"
 url_slides: ""
-url_video: "https://youtu.be/VGmuK--LO0I"
+url_video: # "https://youtu.be/VGmuK--LO0I"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -40,4 +40,4 @@ url_video: "https://youtu.be/VGmuK--LO0I"
 slides: ""
 ---
 
-{{< youtube VGmuK--LO0I >}}
+<!-- {{< youtube VGmuK--LO0I >}} -->

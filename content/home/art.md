@@ -26,6 +26,9 @@ gallery_item:
   - album: gallery
     image: hs2.jpeg
     caption: Hard Surface modelling 2
+  - album: gallery
+    image: bounce.gif
+    caption: Bouncy ball rigging
 ---
 Art and Blender stuff
 
