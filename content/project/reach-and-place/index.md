@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/condog101/Modelling-of-Reach-and-Place-Dataset"
+url_data: "https://github.com/condog101/Modelling-of-Reach-and-Place-Dataset"
 url_pdf: "https://arxiv.org/pdf/2010.02345.pdf"
 url_slides: ""
 url_video: "https://youtu.be/o1SICcMZiiU"
