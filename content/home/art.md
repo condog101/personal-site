@@ -15,6 +15,9 @@ gallery_item:
     image: hkg.jpeg
     caption: Tsui Wah Restaurant
   - album: gallery
+    image: rotate_head.gif
+    caption: Poly-by-poly modelling - scared old man
+  - album: gallery
     image: lay.jpeg
     caption: Life drawing charcoal
   - album: gallery
