@@ -13,10 +13,13 @@ gallery_item:
     caption: Tsui Wah Restaurant
   - album: gallery
     image: rotate_head.gif
-    caption: Poly-by-poly modelling - scared old man
+    caption: Character modelling - old man being sad
   - album: gallery
     image: lay.jpeg
-    caption: Life drawing charcoal
+    caption: Life drawing, charcoal
+  - album: gallery
+    image: hand.jpg
+    caption: Hand study, pencil
   - album: gallery
     image: text.jpeg
     caption: Texturing and lighting tutorial
@@ -28,7 +31,7 @@ gallery_item:
     caption: Bouncy ball rigging
   - album: gallery
     image: eye.jpeg
-    caption: Watercolour Eye
+    caption: Eye, watercolour
 ---
 Art and Blender stuff
 
