@@ -15,7 +15,7 @@ role: Computer Science Student
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: "ucl.ac.uk"
+  url: "https://www.ucl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer Science student interested in how things move.
