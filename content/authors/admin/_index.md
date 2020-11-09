@@ -58,5 +58,5 @@ email: ""
 ---
 
 Hi there!
-I am a recent Computer Science MEng graduate with an interest in the intersection between art and computing.My research interests have most recently led me to explore data-driven methods for motion generation.
+I am a recent Computer Science MEng graduate with an interest in the intersection between art and computing. My research interests have most recently led me to explore data-driven methods for motion generation.
 Outside of CompSci I like to paint, make stuff in Blender and outside pandemic times I'm working towards my BSAC Sports Diver qualification.
