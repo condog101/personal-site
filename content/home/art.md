@@ -9,9 +9,6 @@ design:
 
 gallery_item:
   - album: gallery
-    image: eye.jpeg
-    caption: Watercolour Eye
-  - album: gallery
     image: hkg.jpeg
     caption: Tsui Wah Restaurant
   - album: gallery
@@ -29,6 +26,9 @@ gallery_item:
   - album: gallery
     image: bounce.gif
     caption: Bouncy ball rigging
+  - album: gallery
+    image: eye.jpeg
+    caption: Watercolour Eye
 ---
 Art and Blender stuff
 
