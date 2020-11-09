@@ -39,5 +39,4 @@ url_video: # "https://youtu.be/VGmuK--LO0I"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-<!-- {{< youtube VGmuK--LO0I >}} -->
+MEng thesis completed under the supervision of Dr. Yuzuko Nakamura and Dr Tobias Ritshcel. The first half explores motion classification, whilst the second focuses on motion generation.

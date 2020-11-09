@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "That's not me!"
-subtitle: "Does presence depend on what your virtual avatar looks like?"
+subtitle: "Does presence depend your avatar appearance?"
 summary: ""
 authors: []
 tags: []

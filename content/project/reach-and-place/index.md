@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Human Reach-and-Place Action"
-summary: "Paper in submission"
+summary: "Paper demonstrating generative model for human reach and place action"
 authors: []
 tags: []
 categories: []
@@ -39,5 +39,8 @@ url_video: "https://youtu.be/o1SICcMZiiU"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This paper demonstrates a system to generate human reach and place motion, parameterized by motion start and end coordinates. The pdf link is a preprint, whilst the github repo contains the dataset recorded for the paper.
+In submission as of 28/10/2020. 
 
 {{< youtube o1SICcMZiiU >}}
