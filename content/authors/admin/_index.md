@@ -18,11 +18,12 @@ organizations:
   url: "https://www.ucl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer Science student interested in how things move.
+bio: Computer Science student interested in how we move and perceive movement.
 
 interests:
 - Animation
 - Computer Vision
+- Virtual Reality
 - Graphical Models and Bayesian Reasoning
 - Data Mining
 
