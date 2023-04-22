@@ -19,14 +19,10 @@
   weight = 30
 
 [[main]]
-  name = "Art/Blender"
+  name = "Blender/Photography"
   url = "#art"
   weight = 40
 
-[[main]]
-  name = "Photography"
-  url = "#photos"
-  weight = 60
 
 
 

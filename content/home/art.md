@@ -18,6 +18,15 @@ gallery_item:
   - album: gallery
     image: bounce.gif
     caption: Bouncy ball rigging
+  - album: gallery
+    image: clep.jpeg
+    caption: df
+  - album: gallery
+    image: lep.jpeg
+    caption: df
+  - album: gallery
+    image: stig.jpeg
+    caption: df
 ---
 
 Blender stuff
