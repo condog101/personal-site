@@ -16,9 +16,6 @@ gallery_item:
     image: hs2.jpeg
     caption: Hard Surface modelling
   - album: gallery
-    image: bounce.gif
-    caption: Bouncy ball rigging
-  - album: gallery
     image: clep.jpeg
     caption: df
   - album: gallery
@@ -29,6 +26,6 @@ gallery_item:
     caption: df
 ---
 
-Blender stuff
+Blender and photography
 
 {{< gallery >}}
