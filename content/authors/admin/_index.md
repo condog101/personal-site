@@ -18,7 +18,7 @@ organizations:
     url: "https://www.ucl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer Science student interested in how we move and perceive movement.
+bio: Computer Science student interested in the intersection of graphics and ML.
 
 interests:
   - Computer Graphics
@@ -59,4 +59,4 @@ email: ""
 
 Hi there!
 I am a Computer Science MEng graduate from UCL, with an interest in the intersection between machine learning and computer graphics. In my research I worked closely with UCL graphics professor Tobias Ritschel. My most recent research interests have most recently led me to explore data-driven methods for motion generation. Since graduation I have worked as a Quant Analyst at an investment bank, and then a hedge fund.
-Outside of CompSci I like to paint, make stuff in Blender and think up bad startup ideas.
+Outside of CompSci I paint, make stuff in Blender, and I was also part of an improv group.
